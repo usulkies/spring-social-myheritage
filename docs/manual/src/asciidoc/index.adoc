@@ -1,0 +1,47 @@
+= Spring Social MyHeritage Reference
+Uziel Sulkies
+
+The Spring Social MyHeritage project is an extension to
+http://www.springframework.org/spring-social[Spring Social] that enables
+integration with MyHeritage.
+
+== Introduction
+
+[[]]
+=== How to get
+
+
+
+As an extension to Spring Social, Spring Social MyHeritage depends on
+Spring Social. Spring Social's core module will be transitively resolved
+from the Spring Social MyHeritage dependency. If you'll be using Spring
+Social's web module, you'll need to add that dependency yourself.
+In Gradle:
+
+.build.gradle
+[source,groovy,subs="attributes,verbatim"]
+----
+compile "org.springframework.social:spring-social-web:{spring-social-version}"
+----
+
+Or in Maven:
+
+.pom.xml
+[source,xml,subs="attributes,verbatim"]
+----
+<dependency>
+  <groupId>org.springframework.social</groupId>
+  <artifactId>spring-social-web</artifactId>
+  <version>{spring-social-version}</version>
+</dependency>
+----
+
+Note that Spring Social MyHeritage may release on a different schedule than Spring Social. 
+Consequently, Spring Social's version may differ from that of Spring Social MyHeritage.
+
+Consult
+http://docs.spring.io/spring-social/docs/1.0.x/reference/html/overview.html#overview-howtoget[Spring
+Social's reference documentation] for more information on Spring Social
+dependencies.
+
+

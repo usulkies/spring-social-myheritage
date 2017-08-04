@@ -1,0 +1,113 @@
+Accomplishment:Accomplishment
+Ancestral File Number:Ancestral File Number
+Anecdote:Anecdote
+Association:Association
+Award:Award
+CENS:Census
+SLGC:Child Sealing (LDS)
+Church:Church
+Commemoration:Commemoration
+Comment:Comment
+CONL:Confirmation (LDS)
+Crime:Crime
+Custom event:Custom event
+Deed:Deed
+Degree:Degree
+Election:Election
+Employer:Employer
+ENDL:Endowment (LDS)
+Excommunication:Excommunication
+Fact 1:Fact 1
+Fact 2:Fact 2
+Fact 3:Fact 3
+Fact 4:Fact 4
+Fact 5:Fact 5
+Fact 6:Fact 6
+Fact 7:Fact 7
+Fact 8:Fact 8
+Fact 9:Fact 9
+Hospitalization:Hospitalization
+Illegitimate:Illegitimate
+Illness:Illness
+Membership:Membership
+Miscarriage:Miscarriage
+Mission:Mission
+Move:Move
+Name Change:Name Change
+Passenger List:Passenger List
+Personality and Interests:Personality and Interests
+Politics:Politics
+PROB:Probate
+Rebellion:Rebellion
+RETI:Retirement
+Settlement:Settlement
+Twin:Twin
+WILL:Will
+Will Dated:Will Dated
+Will Proved:Will Proved
+Military Award:Military Award
+Military Discharge:Military Discharge
+Military Enlistment:Military Enlistment
+Military Promotion:Military Promotion
+Military Service:Military Service
+MYHERITAGE:LINEAGE:Lineage
+Circumcision:Circumcision
+MYHERITAGE:PIDYON_HABEN:Pidyon haben
+MYHERITAGE:ZEVED_HABAT:Zeved habat
+BASM:Bat Mitzvah
+BARM:Bar Mitzvah
+ANUL:Annulment
+TITL:Title
+CAST:Caste
+PROP:Property
+IDNO:ID Number
+SSN:Social Security Number
+Misc:Misc
+IMMI:Immigration
+NATU:Naturalization
+EMIG:Emigration
+GRAD:Graduation
+ORDN:Ordination
+FCOM:First Communion
+CONF:Confirmation
+Family Reunion:Family Reunion
+MYHERITAGE:HASSIDUT:Hassidism
+MYHERITAGE:BABY_NAMING:Baby naming
+NAMEDAY:Name day
+Activities:Activities
+BIRT:Birth
+Alternate Birth:Alternate Birth
+Favorite books:Favorite books
+Funeral:Funeral
+BURI:Burial
+Alternate Burial:Alternate Burial
+CREM:Cremation
+CHRA:Adult Christening
+BAPL:Baptism (LDS)
+BAPM:Baptism
+Alternate Baptism:Alternate Baptism
+CHR:Christening
+Alternate Christening:Alternate Christening
+DEAT:Death
+Alternate Death:Alternate Death
+DSCR:Description
+EDUC:Education
+Favorite food:Favorite food
+Idols:Idols
+Hobbies:Hobbies
+Language spoken:Language spoken
+Favorite music:Favorite music
+Favorite movies:Favorite movies
+Namesake:Named after
+NATI:Nationality
+OCCU:Occupation
+Political view:Political view
+Favorite quotes:Favorite quotes
+RELI:Religion
+RESI:Contact Info
+Favorite restaurants:Favorite restaurants
+Sports:Sports
+Favorite TV shows:Favorite TV shows
+Vacation spots:Vacation spots
+NMR:Known Number of Marriages
+NCHI:Known Number of Children
